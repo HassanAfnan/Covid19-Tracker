@@ -45,7 +45,7 @@ export const CountryData = () => {
             <Bar
              data={data}
              width={60}
-             height={430}
+             height={400}
              options={{
               maintainAspectRatio: false
              }}
